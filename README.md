@@ -6,7 +6,7 @@ Coding Platform: Google Colab
 
 Files-
 
-Tensorflow Introduction (with Sample Code):<br>
+1) Tensorflow Introduction (with Sample Code):<br>
   How to import tensorflow in Google Colab<br>
   What are tensors and how to create tensor<br>
   What is rank/ Degree of Tensor<br>
